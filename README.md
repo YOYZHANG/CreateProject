@@ -6,7 +6,7 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 <br>
 
 <p align='center'>
-<a href="">Live Demo</a>
+<a href="https://master--frolicking-moxie-0ae00d.netlify.app/">Live Demo</a>
 </p>
 
 <br>
@@ -44,8 +44,8 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit YOYZHANG/vitesse my-vitesse-app
-cd my-vitesse-app
+npx degit YOYZHANG/originApp my-app
+cd my-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
 
