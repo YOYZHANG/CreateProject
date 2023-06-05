@@ -37,7 +37,7 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/YOYZHANG/vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/YOYZHANG/originApp/generate).
 
 ### Clone to local
 
